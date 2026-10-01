@@ -12,3 +12,5 @@ https://FAT-FATMA.github.io/fatma-portfolio/
 - GitHub Pages
 
 The site is intentionally lightweight and requires no build step.
+
+Deployment workflow is configured under .github/workflows/deploy.yml.
